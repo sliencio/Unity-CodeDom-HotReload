@@ -1,8 +1,12 @@
 {
-    "name": "Tronic.Unity.CodeDomHotReload.Runtime",
-    "rootNamespace": "Tronic.Unity.HotReload",
-    "references": [],
-    "includePlatforms": [],
+    "name": "ItCodes.Unity.CodeDomHotReload.Editor",
+    "rootNamespace": "ItCodes.Unity.HotReload.Editor",
+    "references": [
+        "ItCodes.Unity.CodeDomHotReload.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEditor;
 
-namespace Tronic.Unity.HotReload.Editor
+namespace ItCodes.Unity.HotReload.Editor
 {
     /// <summary>
     /// 热重载配置数据

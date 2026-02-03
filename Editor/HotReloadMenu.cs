@@ -5,9 +5,9 @@ using System.Reflection;
 using UnityEditor;
 using UnityEngine;
 using UnityEngine.UIElements;
-using Tronic.Unity.HotReload;
+using ItCodes.Unity.HotReload;
 
-namespace Tronic.Unity.HotReload.Editor
+namespace ItCodes.Unity.HotReload.Editor
 {
     /// <summary>
     /// 热重载窗口 - 支持拖拽脚本、配置方法调用和参数

@@ -7,7 +7,7 @@ using System.Reflection;
 using Microsoft.CSharp;
 using UnityEngine;
 
-namespace Tronic.Unity.HotReload
+namespace ItCodes.Unity.HotReload
 {
     /// <summary>
     /// 使用CodeDom实现的C#热重载系统（单例模式）

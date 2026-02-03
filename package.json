@@ -1,5 +1,5 @@
 {
-  "name": "com.tronic.unity-codedom-hotreload",
+  "name": "com.itcodes.unity-codedom-hotreload",
   "version": "2.0.0",
   "displayName": "Unity CodeDom Hot Reload",
   "description": "A lightweight Unity runtime hot reload system that allows you to modify and reload C# scripts without stopping Play mode. Zero dependencies, ready to use!",
@@ -12,7 +12,7 @@
     "productivity"
   ],
   "author": {
-    "name": "Tronic",
+    "name": "sliencio",
     "url": "https://github.com/sliencio/Unity-CodeDom-HotReload"
   },
   "license": "MIT",
