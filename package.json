@@ -13,12 +13,12 @@
   ],
   "author": {
     "name": "Tronic",
-    "url": "https://github.com/yourusername/Unity-CodeDom-HotReload"
+    "url": "https://github.com/sliencio/Unity-CodeDom-HotReload"
   },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/Unity-CodeDom-HotReload.git"
+    "url": "https://github.com/sliencio/Unity-CodeDom-HotReload.git"
   },
   "samples": [
     {

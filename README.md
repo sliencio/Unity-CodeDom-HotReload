@@ -1,5 +1,7 @@
 # Unity Runtime Hot Reload System
 
+[English](README.md) | [中文](README_CN.md)
+
 A lightweight Unity runtime hot reload system that allows you to modify and reload C# scripts without stopping Play mode. **Zero dependencies, ready to use!**
 
 ## ✨ Core Features
@@ -27,7 +29,7 @@ A lightweight Unity runtime hot reload system that allows you to modify and relo
 3. Select `Add package from git URL...`
 4. Enter the following URL:
    ```
-   https://github.com/yourusername/Unity-CodeDom-HotReload.git
+   https://github.com/sliencio/Unity-CodeDom-HotReload.git
    ```
 5. Click `Add`
 
@@ -248,8 +250,8 @@ See [LICENSE](LICENSE) file for details.
 
 ## 📞 Get Help
 
-- 📧 Submit Issue: [GitHub Issues](https://github.com/yourusername/unity-hot-reload/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/unity-hot-reload/discussions)
+- 📧 Submit Issue: [GitHub Issues](https://github.com/sliencio/Unity-CodeDom-HotReload/issues)
+- 💬 Discussions: [GitHub Discussions](https://github.com/sliencio/Unity-CodeDom-HotReload/discussions)
 
 ## 🗺️ Roadmap
 

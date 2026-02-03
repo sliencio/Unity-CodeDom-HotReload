@@ -1,5 +1,7 @@
 # Unity 运行时热重载系统
 
+[English](README.md) | [中文](README_CN.md)
+
 一个轻量级的Unity运行时热重载系统，允许你在不停止Play模式的情况下修改和重载C#脚本。**零依赖，开箱即用！**
 
 ## ✨ 核心特性
@@ -27,7 +29,7 @@
 3. 选择 `Add package from git URL...`
 4. 输入以下URL：
    ```
-   https://github.com/yourusername/Unity-CodeDom-HotReload.git
+   https://github.com/sliencio/Unity-CodeDom-HotReload.git
    ```
 5. 点击 `Add`
 
@@ -248,8 +250,8 @@ compilerParameters = new CompilerParameters
 
 ## 📞 获取帮助
 
-- 📧 提交Issue：[GitHub Issues](https://github.com/yourusername/unity-hot-reload/issues)
-- 💬 讨论区：[GitHub Discussions](https://github.com/yourusername/unity-hot-reload/discussions)
+- 📧 提交Issue：[GitHub Issues](https://github.com/sliencio/Unity-CodeDom-HotReload/issues)
+- 💬 讨论区：[GitHub Discussions](https://github.com/sliencio/Unity-CodeDom-HotReload/discussions)
 
 ## 🗺️ 路线图
 
