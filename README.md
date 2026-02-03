@@ -20,13 +20,25 @@ A lightweight Unity runtime hot reload system that allows you to modify and relo
 
 ## 🚀 Quick Start
 
-### 1. Import Hot Reload System
+### Installation via Git URL (Recommended)
 
-Copy the following files and folders to your Unity project:
-- `Assets/Editor/HotReload/`
-- `Assets/Scripts/Utils/HotReload/`
+1. Open Unity Package Manager (`Window > Package Manager`)
+2. Click the `+` button in the top-left corner
+3. Select `Add package from git URL...`
+4. Enter the following URL:
+   ```
+   https://github.com/yourusername/Unity-CodeDom-HotReload.git
+   ```
+5. Click `Add`
 
-### 2. Configure API Compatibility Level
+### Installation via Local Package
+
+1. Clone or download this repository
+2. In Unity Package Manager, click the `+` button
+3. Select `Add package from disk...`
+4. Navigate to the cloned repository and select `package.json`
+
+### Configure API Compatibility Level
 
 **Important**: In Unity menu:
 1. Open `Edit > Project Settings > Player`

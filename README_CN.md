@@ -20,13 +20,25 @@
 
 ## 🚀 快速开始
 
-### 1. 导入热重载系统
+### 通过Git URL安装（推荐）
 
-将以下文件和文件夹复制到你的Unity项目：
-- `Assets/Editor/HotReload/`
-- `Assets/Scripts/Utils/HotReload/`
+1. 打开Unity Package Manager（`Window > Package Manager`）
+2. 点击左上角的 `+` 按钮
+3. 选择 `Add package from git URL...`
+4. 输入以下URL：
+   ```
+   https://github.com/yourusername/Unity-CodeDom-HotReload.git
+   ```
+5. 点击 `Add`
 
-### 2. 配置API Compatibility Level
+### 通过本地包安装
+
+1. 克隆或下载本仓库
+2. 在Unity Package Manager中，点击 `+` 按钮
+3. 选择 `Add package from disk...`
+4. 导航到克隆的仓库并选择 `package.json`
+
+### 配置API Compatibility Level
 
 **重要**：在Unity菜单中设置：
 1. 打开 `Edit > Project Settings > Player`

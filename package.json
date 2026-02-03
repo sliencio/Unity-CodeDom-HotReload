@@ -1,0 +1,30 @@
+{
+  "name": "com.tronic.unity-codedom-hotreload",
+  "version": "2.0.0",
+  "displayName": "Unity CodeDom Hot Reload",
+  "description": "A lightweight Unity runtime hot reload system that allows you to modify and reload C# scripts without stopping Play mode. Zero dependencies, ready to use!",
+  "unity": "2022.3",
+  "keywords": [
+    "hot-reload",
+    "runtime",
+    "codedom",
+    "development",
+    "productivity"
+  ],
+  "author": {
+    "name": "Tronic",
+    "url": "https://github.com/yourusername/Unity-CodeDom-HotReload"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/Unity-CodeDom-HotReload.git"
+  },
+  "samples": [
+    {
+      "displayName": "Hot Reload Sample",
+      "description": "Sample scene demonstrating hot reload functionality",
+      "path": "Samples~/HotReloadSample"
+    }
+  ]
+}
